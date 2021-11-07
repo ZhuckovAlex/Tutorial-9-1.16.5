@@ -1,0 +1,15 @@
+{
+  "item.project.tutorial_item": "Tutorial item",
+
+  "block.project.redium": "Redium",
+  "block.project.firewood_wood": "Firewood wood",
+  "block.project.firewood_log": "Firewood log",
+  "block.project.firewood_leaves": "Firewood leaves",
+  "block.project.firewood_planks": "Firewood planks",
+  "block.project.firewood_sapling": "Firewood sapling",
+  "block.project.stripped_firewood_wood": "Stripped firewood wood",
+  "block.project.stripped_firewood_log": "Stripped firewood log",
+
+  "itemGroup.carrot": "Carrot",
+  "itemGroup.iron_block": "Iron block"
+}
